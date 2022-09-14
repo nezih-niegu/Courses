@@ -1,0 +1,35 @@
+
+
+************************************
+**** Information about molecule ****
+************************************
+
+Atoms..............: 32
+Heavy atoms........: 24
+Centroids..........: 0
+Residues...........: 1
+Molecules..........: 1
+Waters.............: 0
+Formula............: C12H8N3O8S
+Molecular weight...: 354.272 Daltons
+Monoisotopic mass..: 354.003210 Daltons
+Gyration radius....: 4.9870 Å
+Geometry center....: 5.6333 0.0166 2.2961
+Mass center........: 4.8285 -0.3293 1.9875
+Appx. dimensions...: 16.7026 10.7515 9.2589
+Total charge.......: -0.3955
+Dipole.............: 12.1406 Debye
+Surf. area (1.40)..: 530.2 Å² (ds=13.0 Å)
+Polar area (PSA)...: 419.6 Å² (apolar=110.6 Å²)
+Volume.............: 264.2 Å³ (dv=8.0 Å)
+Ovality............: 1.6033
+logP (Crippen).....: 1.8245
+Lipole (Crippen)...: 0.6778
+logP (Broto).......: 0.7520
+Lipole (Broto).....: 1.7460
+Virtual logP.......: 1.1318
+Molar refractivity.: 77.1486
+Davies' HLB........: 15.55
+Griffin's HLB......: 13.30
+PSA-based HLB......: 11.75
+Mean HLB...........: 13.53
